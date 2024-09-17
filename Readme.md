@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Adhav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2FIDWGames%2Fstatus%2F1432441519148048388&psig=AOvVaw266FbH1JZtPffSLA3BSC52&ust=1726689049330000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjA0NfgyogDFQAAAAAdAAAAABAE" alt=" ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantadhav&label=Profile%20views&color=0e75b6&style=flat" alt="nishantadhav" /> </p>
 
