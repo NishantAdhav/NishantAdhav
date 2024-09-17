@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nishant-adhav-296b11253/](https://www.linkedin.com/in/nishant-adhav-296b11253/)
 
-- 💬 Ask me about **C++,DSA,HTML,CSS,JAVASCRIPT,REACT.JS,NODE.JS,EXPRESS.JS,MONGO DB,NEXT.JS**
+- 💬 Ask me about **MERN STACK**
 
 - 📫 How to reach me **nishantadhav3000@gmail.com**
 
@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantadhav&show_icons=true&locale=en" alt="nishantadhav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantadhav&" alt="nishantadhav" /></p>
+
+
