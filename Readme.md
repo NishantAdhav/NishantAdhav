@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Adhav</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img src=" https://pbs.twimg.com/media/E-EN-ExXoAMkHXu.jpg" alt=" ">
+<img src="https://blog.amithgc.com/title-1.gif" width="450px" align="right" alt=" ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantadhav&label=Profile%20views&color=0e75b6&style=flat" alt="nishantadhav" /> </p>
 
